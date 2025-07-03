@@ -16,4 +16,4 @@ Python, Gradio, Transformers, Hugging Face BLIP, PyTorch
 
 ## How to Run:
 ```pip install gradio transformers torch pillow
-python gradio_image_captioning.py```
+python gradio_image_captioning.py
